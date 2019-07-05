@@ -16,6 +16,6 @@ mod 'puppetlabs-stdlib', '4.25.0'
 mod 'puppetlabs-vcsrepo', '2.3.0'
 
 mod 'puppet',
-  :git    => 'https://github.com/aursu/puppet-puppet.git',
+  :git    => 'https://github.com/140ec34/puppet-puppet.git',
   :branch => 'master'
 
